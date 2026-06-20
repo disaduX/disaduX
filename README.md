@@ -1,3 +1,4 @@
+
 # Hi there, I'm [Disadu daham ] 👋
 
 <p align="left">
@@ -67,3 +68,64 @@ Below are the technologies and tools I work with daily:
 </p>
 
 ⚡ *Fun fact: [Add a fun tech or personal fact here!]*
+<div align="center">
+
+# ⚔️ Awakening... Welcome to My GitHub ⚔️
+
+### 👤 Disadu | Software Engineering Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&center=true&width=650&lines=Arise!;Building+Projects+One+Commit+at+a+Time;Learning+Never+Ends;Welcome+to+My+Developer+Journey" />
+
+</div>
+
+---
+
+## 🌑 About Me
+
+```txt
+Name      : Disadu
+Role      : Software Engineering Student
+Status    : Training to Level Up Every Day
+Focus     : Web Development • Programming • Problem Solving
+Mission   : Turn Ideas into Reality Through Code
+```
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,git,github,vscode,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- ⚡ Learn new technologies
+- 🚀 Build real-world projects
+- 📚 Improve problem-solving skills
+- 🤝 Contribute to open source
+
+---
+
