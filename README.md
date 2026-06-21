@@ -13,7 +13,7 @@
 ## 🌑 About Me
 
 ```txt
-Name      : Disadu
+Name      : Disadu daham 
 Role      : Software Engineering Student
 Status    : Training to Level Up Every Day
 Focus     : Web Development • Programming • Problem Solving
@@ -61,39 +61,6 @@ Mission   : Turn Ideas into Reality Through Code
 
 <div align="center">
 
-### ⭐ "Every commit is another step toward leveling up."
-
-
----
-
-
-
-#### ⚙️ Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-#### 🧰 Tools & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=visual_studio_dark" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180em" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
@@ -107,6 +74,6 @@ Mission   : Turn Ideas into Reality Through Code
   </a>
 </p>
 
-⚡ *Fun fact: [Add a fun tech or personal fact here!]*
-<div align="center">
+### ⭐ "Every commit is another step toward leveling up."
 
+⚡☠️
