@@ -1,24 +1,23 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=60&lines=Awakening...+Welcome+to+My+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=Hi+There!+I'm+Disadu;Welcome+to+My+GitHub+Profile" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <p><b>Disadu | Software Engineering Student</b></p>
+  <p><b>🚀 Software Engineering Student | Web Developer</b></p>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-* **Name** : Disadu Dahan
-* **Role** : Software Engineering Student
-* **Status** : Training to Level Up Every Day
-* **Focus** : Web Development & Problem Solving
-* **Mission** : Turn Ideas Into Reality Through Code
+* **Name:** Disadu Dahan
+* **Education:** Software Engineering Student
+* **Passion:** Web Development & Problem Solving
+* **Goal:** Building real-world applications and turning ideas into code.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
@@ -33,38 +32,38 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=disaduX&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=disaduX&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=disaduX&show_icons=true&theme=radical&hide_border=true&bg_color=131722" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disaduX&layout=compact&theme=radical&hide_border=true&bg_color=131722" alt="Top Languages" />
 </div>
----
-
-## 🎯 Current Goals
-
-* 🚀 Learn new technologies
-* 💡 Build real-world projects
-* 📈 Improve problem-solving skills
-* 💖 Contribute to open source
 
 ---
 
-## 🌐 Connect with Me
+## 🎯 Current Focus
+
+* 🌐 Developing web applications using modern technologies.
+* 📚 Learning advanced software engineering concepts.
+* 💡 Contributing to open-source and personal projects.
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/oyage-linkedin-username" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/oyage-twitter-username" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  
+  <a href="https://instagram.com/disad_u" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <em>"Every commit is another step toward leveling up."</em>
-  <p>⚡ ⚔️</p>
+  <em>"Code. Create. Inspire."</em>
 </div>
